@@ -2,3 +2,4 @@
 This is a practice about how to edit and commit on github
 
 Tambah baris baru dari lokal komputer
+Tambah baris baru kedua dari lokal komputer
