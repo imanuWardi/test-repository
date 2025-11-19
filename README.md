@@ -1,4 +1,2 @@
-# test-repository
-This is a test description
-
-This is a second example about how to push git on github
+# My very first repo
+This is a practice about how to edit and commit on github
